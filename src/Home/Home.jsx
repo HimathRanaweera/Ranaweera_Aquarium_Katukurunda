@@ -20,7 +20,7 @@ function Home() {
                 </div>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img class="bd-placeholder-img" width="100%" height="100%" src="./src/photos/ranaweera AQUARIUM 01.png" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false" /><rect width="100%" height="100%" fill="var(--bs-secondary-color)" />
+                        <img class="bd-placeholder-img" width="100%" height="100%" src="src/photos/ranaweera AQUARIUM 01.png" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false" /><rect width="100%" height="100%" fill="var(--bs-secondary-color)" />
                         <div class="container">
                             <div class="carousel-caption text-end">
                                 <h1 className="Header01">Welcome to our website! hello</h1>
@@ -30,7 +30,7 @@ function Home() {
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img class="bd-placeholder-img" width="100%" height="100%" src="./src/photos/ranaweera AQUARIUM 02.png" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false" /><rect width="100%" height="100%" fill="var(--bs-secondary-color)" />
+                        <img class="bd-placeholder-img" width="100%" height="100%" src="src/photos/ranaweera AQUARIUM 02.png" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false" /><rect width="100%" height="100%" fill="var(--bs-secondary-color)" />
                         <div class="container">
                             <div class="carousel-caption">
                                 <h1>Another example headline.</h1>
@@ -40,7 +40,7 @@ function Home() {
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img class="bd-placeholder-img" width="100%" height="100%" src="./src/photos/ranaweera AQUARIUM 03.png" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"/><rect width="100%" height="100%" fill="var(--bs-secondary-color)" />
+                        <img class="bd-placeholder-img" width="100%" height="100%" src="src/photos/ranaweera AQUARIUM 03.png" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"/><rect width="100%" height="100%" fill="var(--bs-secondary-color)" />
                         <div class="container">
                             <div class="carousel-caption text-end">
                                 <h1>One more for good measure.</h1>
